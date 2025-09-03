@@ -61,4 +61,4 @@ document.getElementById("ecetForm").addEventListener("submit", function (e) {
 
   alert("Form submitted successfully!");
   this.reset(); // Optional: reset the form after submission
-});//script.js
+});//script.js//js2
