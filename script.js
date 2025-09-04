@@ -9,9 +9,5 @@ document.getElementById("ecetForm").addEventListener("submit", function (e) {
   }
 
   alert("Form submitted successfully!");
-  this.reset(); // Optional: reset the form after submission
-<<<<<<< HEAD
-});//script.js//js2
-=======
+  this.reset();
 });
->>>>>>> 3b3a5b4f423340b27a26f2f22c0a030133ad19e9
