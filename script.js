@@ -1,5 +1,5 @@
 document.getElementById("ecetForm").addEventListener("submit", function (e) {
-  e.preventDefault(); // Prevent form from submitting
+  e.preventDefault(); 
 
   const phone = document.getElementById("phone").value;
 
