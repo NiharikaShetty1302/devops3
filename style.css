@@ -1,10 +1,10 @@
 body {
   font-family: sans-serif;
-  background: yellow;
+  background: lightblue;
   padding: 20px;
 }
 form {
-  background: red;
+  background: lightgreen;
   padding: 20px;
   max-width: 400px;
   border-radius: 5px;
